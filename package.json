@@ -1,0 +1,8 @@
+{
+  "name": "stack_mgmt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kpensec/stack_mgmt.git",
+  "author": "kpensec",
+  "license": "MIT"
+}
